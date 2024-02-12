@@ -1,1 +1,1 @@
-# poetry_generation
+# poetry_generation with seq2seq model
